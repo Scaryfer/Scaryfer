@@ -1,7 +1,7 @@
 # Scaryfer portafolio
 ====================================================================
 
-![logo](https://avatars.githubusercontent.com/u/93772875?v=4)
+![logo](https://i.ibb.co/7SBvJDL/coin-6-modified-1.png)
 
 
 ## Que es Scaryfer? -- Token
