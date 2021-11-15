@@ -1,1 +1,1 @@
-# Scaryfer-white_paper
+# Scaryfer white paper
