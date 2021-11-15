@@ -6,4 +6,4 @@
 
 ## Que es Scaryfer? -- Token
 Scaryfer es un token BEP-20 usando bnb como moneda base
-Actualmente usamos Pancakeswap [here](https://pancakeswap.finance/) para la compra i venta de SCYF (Scaryfer)
+Actualmente usamos [Pancakeswap](https://pancakeswap.finance/) para la compra i venta de SCYF (Scaryfer)
