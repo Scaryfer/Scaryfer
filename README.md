@@ -12,4 +12,4 @@ Actualmente usamos [Pancakeswap](https://pancakeswap.finance/) para la compra i 
 Actualmente contamos con 500 Billones de monedas
 
 ### Como se reparten estos 500 billones?
-![repartimiento](https://ibb.co/M5CXjYD)
+![repartimiento](https://i.ibb.co/G35h1Kv/chart-4.png)
