@@ -25,7 +25,7 @@ Hemos decidido repartirlo de esta manera para el maximo disfrute de nuestro toke
 - Público --> Para la gente que quiera holdear, vender, comprar y hacer lo que quiera con nuestro token hemos reservado el 50% de nuestros tokens. Es decir 250 Biliones de SCYF (Scaryfer)
 
 
-
+## 
 
 
 
