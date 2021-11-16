@@ -12,7 +12,7 @@ Actualmente usamos [Pancakeswap](https://pancakeswap.finance/) para la compra i 
 ## Cuantas Scaryfer existen?
 Actualmente contamos con 500 Billones de monedas
 
-### Como se reparten estos 500 billones?
+#### Como se reparten estos 500 billones?
 ![repartimiento](https://i.ibb.co/G35h1Kv/chart-4.png)
 
 Hemos decidido repartirlo de esta manera para el maximo disfrute de nuestro token:
