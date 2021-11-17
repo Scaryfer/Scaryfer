@@ -9,6 +9,9 @@ Scaryfer es un token BEP-20 usando bnb como moneda base.
 
 ## Cuantas Scaryfer existen?
 Actualmente contamos con 1 Millon de monedas
-##
+## FUTURO
+PRONTO SE VIENEN COSITAS
+
+###
 
 © Scaryfer | 2021 |
