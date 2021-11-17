@@ -11,8 +11,6 @@ Actualmente usamos [Pancakeswap](https://pancakeswap.finance/) para la compra i 
 
 ## Cuantas Scaryfer existen?
 Actualmente contamos con 1 Millon de monedas
-
-
-
+##
 
 © Scaryfer | 2021 |
